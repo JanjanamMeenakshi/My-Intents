@@ -5,3 +5,4 @@ In this application i used implicit intents to share the information,
 and  navigate to the maps from this application,
 and navigate to the calls.:calling:
 We use the intents in all aplications where we have to move one from one.:smile:
+:simple_smile:
